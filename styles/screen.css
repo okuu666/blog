@@ -57,7 +57,7 @@ header h1 {
   text-shadow: 0 1px 6px rgba(0,0,0,0.5);
 }
 header h1 a {
-  color: #ca314d;
+  color: #0abab5;
 }
 header p {
   color: #fdf2e4;
@@ -85,7 +85,7 @@ header nav ul li:last-child:after {
   content: '';
 }
 header nav ul li a {
-  color: #ca314d;
+  color: #0abab5;
 }
 header nav ul li a:hover {
   text-decoration: underline;
@@ -100,7 +100,7 @@ header nav .xnews-icon a {
   color: #444;
 }
 header nav .xnews-icon a:hover {
-  color: #ca314d;
+  color: #0abab5;
   transition: color 0.3s ease;
 }
 header .space {
@@ -191,7 +191,7 @@ main a.article:last-of-type article:after {
 }
 main a.article:hover h2 {
   transition: color 0.3s ease;
-  color: #ca314d;
+  color: #0abab5;
 }
 main .post-meta {
   color: #a4a4a4;
@@ -240,11 +240,11 @@ main div.pagination > * {
   margin: 0 5px;
 }
 main div.pagination a {
-  color: #e38c9c;
+  color: #5bf6f2;
 }
 main div.pagination a:hover {
   transition: color 0.3s ease;
-  color: #ca314d;
+  color: #0abab5;
 }
 main .article-toc {
   box-sizing: border-box;
@@ -308,7 +308,7 @@ article.full a {
   transition: color ease 0.3s;
 }
 article.full a:hover {
-  color: #ca314d;
+  color: #0abab5;
   border-bottom: 1px dotted;
 }
 article.full hr {
